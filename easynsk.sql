@@ -157,7 +157,7 @@ CREATE TABLE `orders` (
 INSERT INTO `orders` (`id`, `name`, `phone`, `email`, `address`, `user_id`, `product_title`, `quantity`, `price`, `image`, `supplier`, `product_id`, `payment_status`, `delivery_status`, `created_at`, `updated_at`) VALUES
 (38, 'user', '08162342179', 'user@gmail.com', 'number 1 where am coding nsukka ', '6', 'sdfgfegn', '1', '45453', '1706427272.jpg', '', '21', 'Paid Through Monnify', 'Delivered', '2024-02-08 04:01:19', '2024-02-08 04:08:49'),
 (39, 'user', '08162342179', 'user@gmail.com', 'number 1 where am coding nsukka ', '6', 'laptop', '1', '22000', '1705832346.jpg', 'yes', '17', 'Paid Through Monnify', 'Delivered', '2024-02-08 04:01:59', '2024-02-17 01:31:05'),
-(40, 'yes', '1233', 'yes@gmail.com', '123enugu', '11', 'Id nesciunt alias s', '1', '88', '1703736939.jfif', 'yes', '11', 'Paid Through Monnify', 'processing', '2024-02-08 04:08:10', '2024-02-08 04:08:10'),
+(40, 'yes', '1233', 'yes@gmail.com', '123nenugu', '11', 'Id nesciunt alias s', '1', '88', '1703736939.jfif', 'yes', '11', 'Paid Through Monnify', 'processing', '2024-02-08 04:08:10', '2024-02-08 04:08:10'),
 (41, 'yes', '1233', 'yes@gmail.com', '123enugu', '11', 'Id nesciunt alias s', '1', '88', '1703736939.jfif', '', '11', 'Paid Through Monnify', 'processing', '2024-02-08 04:08:10', '2024-02-08 04:08:10'),
 (42, 'yes', '1233', 'yes@gmail.com', '123enugu', '11', 'Ut ut amet vitae lo', '1', '34545', '1703736850.jfif', '', '8', 'Paid Through Monnify', 'processing', '2024-02-08 05:34:02', '2024-02-08 05:34:02'),
 (43, 'yes', '1233', 'yes@gmail.com', '123enugu', '11', 'Ipsa assumenda veli', '1', '64', '1703736997.jfif', '', '14', 'Paid Through Monnify', 'processing', '2024-02-08 05:34:02', '2024-02-08 05:34:02'),
